@@ -2,7 +2,6 @@
 
 > **A vision of an ideal society built on harmony, equality, cooperation, and human well-being.**
 
-![Febutopia Banner](https://febutopia.com)
 
 ## ✨ About Febutopia
 
