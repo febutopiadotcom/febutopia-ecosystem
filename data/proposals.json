@@ -1,0 +1,19 @@
+[
+ {
+  "title":"Universal Education",
+  "status":"Approved",
+  "votes":1200
+ },
+
+ {
+  "title":"Green Energy Network",
+  "status":"Voting",
+  "votes":860
+ },
+
+ {
+  "title":"AI Assisted Healthcare",
+  "status":"Research",
+  "votes":540
+ }
+]
